@@ -73,4 +73,4 @@ For tasks related to user logon, security testing, and role centers, please refe
 For tasks related to business rules and workflows, please refer to the directory: `02_business-rules-and-workflows`.
 
 <!-- Reference Links -->
-[xlsx-001]: ./checklist.xlsx
+[xlsx-001]: ../checklist.xlsx
